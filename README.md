@@ -1,4 +1,5 @@
-# Clicky-Game
+# Scraper
+
 News-Scraper
 An app that lets users view and leave comments on the latest news.
 
